@@ -185,7 +185,7 @@ sns.distplot(y)
 
 
 
-![png](output_13_1.png)
+![png](README/output_13_1.png)
 
 
 
@@ -201,7 +201,7 @@ sns.heatmap(df.corr(), annot=True)
 
 
 
-![png](output_14_1.png)
+![png](README/output_14_1.png)
 
 
 #### Splitting the data set into training set and the test set
@@ -345,7 +345,7 @@ plt.scatter(y_test, predictions)
 
 
 
-![png](output_26_1.png)
+![png](README/output_26_1.png)
 
 
 
@@ -366,7 +366,7 @@ plt.scatter(y_test, predictions)
 
 
 
-![png](output_28_1.png)
+![png](README/output_28_1.png)
 
 
 
@@ -1233,7 +1233,7 @@ sns.distplot((y_test-predictions),bins=50)
 
 
 
-![png](output_39_1.png)
+![png](README/output_39_1.png)
 
 
 
